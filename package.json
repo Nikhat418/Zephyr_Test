@@ -1,0 +1,20 @@
+{
+  "name": "zephyr_test",
+  "version": "1.0.0",
+  "description": "A test repository for Zephyr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhat418/Zephyr_Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhat418/Zephyr_Test/issues"
+  },
+  "homepage": "https://github.com/Nikhat418/Zephyr_Test#readme"
+}
